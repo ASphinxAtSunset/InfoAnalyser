@@ -1,7 +1,7 @@
 package controller;
 
-import com.service.OriginalDataService;
-import com.vo.ConditionVo;
+import com.spider.service.OriginalDataService;
+import com.spider.vo.ConditionVo;
 
 /**
  * Created by Gene on 2017/7/25.
