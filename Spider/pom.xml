@@ -8,6 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
     <artifactId>Spider</artifactId>
     <packaging>jar</packaging>
     <properties>
@@ -122,5 +123,10 @@
                 </dependency>-->
 
     </dependencies>
+=======
+
+    <artifactId>Spider</artifactId>
+
+>>>>>>> first module
 
 </project>

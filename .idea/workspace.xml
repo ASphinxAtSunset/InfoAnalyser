@@ -8,9 +8,12 @@
     <ignored path="$PROJECT_DIR$/SpiderVisualization/target/" />
     <ignored path="$PROJECT_DIR$/InvokeR/target/" />
     <ignored path="F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/target/" />
+<<<<<<< HEAD
     <ignored path="$PROJECT_DIR$/spiderdata/target/" />
     <ignored path="$PROJECT_DIR$/PageAnalyser/target/" />
     <ignored path="$PROJECT_DIR$/SpiderWeb/target/" />
+=======
+>>>>>>> first module
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +24,7 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+<<<<<<< HEAD
   <component name="DatabaseView">
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
@@ -37,21 +41,43 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+=======
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/MainThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+>>>>>>> first module
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ConfigParse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/utils/ConfigParse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="624">
               <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
               <folding />
+=======
+      <file leaf-file-name="LifeOff.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/LifeOff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="22" column="105" lean-forward="false" selection-start-line="22" selection-start-column="105" selection-end-line="22" selection-end-column="105" />
+              <folding>
+                <marker date="1500521502637" expanded="true" signature="683:770" ph="{...}" />
+              </folding>
+>>>>>>> first module
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="SpiderController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,21 +85,91 @@
               <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="SimplePriorities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest2/SimplePriorities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+>>>>>>> first module
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spider/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="619">
               <caret line="114" column="52" lean-forward="false" selection-start-line="114" selection-start-column="52" selection-end-line="114" selection-end-column="52" />
+=======
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spiderweb/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicThreads.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/BasicThreads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExecutorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/ExecutorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="20" column="57" lean-forward="false" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="137" column="18" lean-forward="false" selection-start-line="137" selection-start-column="18" selection-end-line="137" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InvokeR/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+>>>>>>> first module
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="SpiderSetting.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderSetting.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,6 +177,15 @@
               <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="SpiderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <marker date="1500342466247" expanded="true" signature="174:337" ph="{...}" />
+>>>>>>> first module
               </folding>
             </state>
           </provider>
@@ -91,11 +196,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Interface" />
+=======
+>>>>>>> first module
         <option value="Class" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>could not</find>
@@ -108,6 +217,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+>>>>>>> first module
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -118,6 +229,10 @@
       <list>
         <option value="$PROJECT_DIR$/InvokeR/pom.xml" />
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/SpiderController.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderController.java" />
+>>>>>>> first module
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/ThreadTest.java" />
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/Lifeoff.java" />
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/MainThread.java" />
@@ -127,6 +242,7 @@
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/BasicThreads.java" />
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest2/SimplePriorities.java" />
         <option value="$PROJECT_DIR$/spiderweb/web/WEB-INF/web.xml" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/spiderdata/src/main/java/com/service/NewsService.java" />
         <option value="$PROJECT_DIR$/spiderweb/pom.xml" />
         <option value="$PROJECT_DIR$/PageAnalyser/pom.xml" />
@@ -155,6 +271,8 @@
         <option value="$PROJECT_DIR$/Spider/pom.xml" />
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderSetting.java" />
         <option value="$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderController.java" />
+=======
+>>>>>>> first module
       </list>
     </option>
   </component>
@@ -171,6 +289,7 @@
         <option name="userSettingsFile" value="D:\worktools\apache-maven-3.2.5_bak\apache-maven-3.2.5\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+<<<<<<< HEAD
     <option name="enabledProfiles">
       <list>
         <option value="test" />
@@ -184,6 +303,22 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState />
+=======
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="InfoAnalyse" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+>>>>>>> first module
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -243,12 +378,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+=======
+>>>>>>> first module
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="InfoAnalyser-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
@@ -388,22 +527,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pool" />
+=======
+              <option name="myItemId" value="InfoAnalyse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InfoAnalyse" />
+>>>>>>> first module
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="InfoAnalyser-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="InfoAnalyser-master" />
+=======
+              <option name="myItemId" value="InfoAnalyse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InfoAnalyse" />
+>>>>>>> first module
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Spider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -428,12 +583,25 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+=======
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> first module
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
+=======
+    <property name="last_opened_file_path" value="F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector" />
+    <property name="project.structure.last.edited" value="Modules" />
+>>>>>>> first module
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33333334" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -442,6 +610,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+<<<<<<< HEAD
       <recent name="com.vo" />
       <recent name="com.service" />
       <recent name="com.controller" />
@@ -453,6 +622,10 @@
       <recent name="D:\workspaceAll\InfoAnalyser\Spider\src\main\resources\prod" />
       <recent name="D:\workspaceAll\InfoAnalyser\Spider\src\main\resources\dev" />
     </key>
+=======
+      <recent name="com.controller" />
+    </key>
+>>>>>>> first module
   </component>
   <component name="RunManager" selected="Application.SimplePriorities">
     <configuration default="false" name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -772,7 +945,10 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+<<<<<<< HEAD
       <setting name="depsClasspath" value="false" />
+=======
+>>>>>>> first module
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -851,6 +1027,7 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -873,6 +1050,8 @@
       </MavenSettings>
       <method />
     </configuration>
+=======
+>>>>>>> first module
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -916,12 +1095,15 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+<<<<<<< HEAD
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
+=======
+>>>>>>> first module
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -955,9 +1137,12 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
+=======
+>>>>>>> first module
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="deb341cb-774a-4df1-9095-4532aaf12581" name="Default" comment="" />
@@ -966,14 +1151,18 @@
       <option name="presentableId" value="Default" />
       <updated>1499996409926</updated>
       <workItem from="1499996644293" duration="47578000" />
+<<<<<<< HEAD
       <workItem from="1500883951748" duration="44620000" />
       <workItem from="1501464260414" duration="957000" />
       <workItem from="1501471273005" duration="26287000" />
       <workItem from="1501638533366" duration="2014000" />
+=======
+>>>>>>> first module
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="121456000" />
   </component>
   <component name="ToolWindowManager">
@@ -1013,6 +1202,47 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="47578000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40151516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+>>>>>>> first module
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1032,6 +1262,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/ExecutorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1069,10 +1300,13 @@
       </provider>
     </entry>
     <entry file="file://F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/src/main/java/cn/edu/hfut/dmic/contentextractor/News.java" />
+=======
+>>>>>>> first module
     <entry file="file://$PROJECT_DIR$/SpiderVisualization/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -1238,10 +1472,39 @@
           <folding>
             <element signature="e#176#177#0" expanded="false" />
             <element signature="e#211#212#0" expanded="false" />
+=======
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InvokeR/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/SpiderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1500342466247" expanded="true" signature="174:337" ph="{...}" />
+>>>>>>> first module
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/spiderweb/src/main/java/controller/NewsVar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1253,10 +1516,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/Spider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+>>>>>>> first module
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Spider/profiles/test/spider-conf.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1306,10 +1576,59 @@
           <folding>
             <element signature="e#8773#8774#0" expanded="true" />
             <element signature="e#8842#8843#0" expanded="true" />
+=======
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="137" column="18" lean-forward="false" selection-start-line="137" selection-start-column="18" selection-end-line="137" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/ExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="20" column="57" lean-forward="false" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/LifeOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="22" column="105" lean-forward="false" selection-start-line="22" selection-start-column="105" selection-end-line="22" selection-end-column="105" />
+          <folding>
+            <marker date="1500521502637" expanded="true" signature="683:770" ph="{...}" />
+>>>>>>> first module
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -1329,10 +1648,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+=======
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest/BasicThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+>>>>>>> first module
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/pool/SpiderPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1344,18 +1670,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+=======
+    <entry file="file://F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/src/main/java/cn/edu/hfut/dmic/contentextractor/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spiderdata/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+>>>>>>> first module
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Spider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="619">
           <caret line="114" column="52" lean-forward="false" selection-start-line="114" selection-start-column="52" selection-end-line="114" selection-end-column="52" />
+=======
+    <entry file="file://$PROJECT_DIR$/spiderweb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> first module
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/service/OriginalData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1368,10 +1716,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/threadtest2/SimplePriorities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiderweb/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+>>>>>>> first module
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Spider/src/main/java/com/controller/SpiderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="581">
@@ -1389,6 +1756,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+>>>>>>> first module
         </state>
       </provider>
     </entry>
@@ -1414,6 +1788,10 @@
             <option name="proportions">
               <list>
                 <option value="0.33333334" />
+<<<<<<< HEAD
+=======
+                <option value="0.5" />
+>>>>>>> first module
               </list>
             </option>
           </splitter-proportions>
@@ -1457,12 +1835,19 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>SpiderWeb</last-edited>
+=======
+          <last-edited>Spring|spiderweb</last-edited>
+>>>>>>> first module
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.33333334" />
+<<<<<<< HEAD
                 <option value="0.5" />
+=======
+>>>>>>> first module
               </list>
             </option>
           </splitter-proportions>
@@ -1482,7 +1867,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>Maven: org.json:json:20140107</last-edited>
+=======
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+>>>>>>> first module
           <splitter-proportions>
             <option name="proportions">
               <list>

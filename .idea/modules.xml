@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InfoAnalyser.iml" filepath="$PROJECT_DIR$/InfoAnalyser.iml" />
       <module fileurl="file://$PROJECT_DIR$/InvokeR/InvokeR.iml" filepath="$PROJECT_DIR$/InvokeR/InvokeR.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PageAnalyser/PageAnalyser.iml" filepath="$PROJECT_DIR$/PageAnalyser/PageAnalyser.iml" />
+=======
+>>>>>>> first module
       <module fileurl="file://$PROJECT_DIR$/Spider/Spider.iml" filepath="$PROJECT_DIR$/Spider/Spider.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpiderVisualization/SpiderVisualization.iml" filepath="$PROJECT_DIR$/SpiderVisualization/SpiderVisualization.iml" />
       <module fileurl="file://F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/WebCollector.iml" filepath="F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/WebCollector.iml" />

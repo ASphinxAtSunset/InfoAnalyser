@@ -10,13 +10,22 @@
         <option value="F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/pom.xml" />
       </list>
     </option>
+<<<<<<< HEAD
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/spiderweb/pom.xml" />
       </set>
     </option>
+=======
+>>>>>>> first module
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+>>>>>>> first module
 </project>

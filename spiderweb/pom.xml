@@ -9,6 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <artifactId>SpiderWeb</artifactId>
     <dependencies>
         <!--开始执行爬虫-->
@@ -26,5 +27,9 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+=======
+    <artifactId>spider-web</artifactId>
+
+>>>>>>> first module
 
 </project>
