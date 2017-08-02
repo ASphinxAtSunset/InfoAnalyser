@@ -14,6 +14,7 @@
         <module name="spiderdata" />
         <module name="SpiderVisualization" />
         <module name="SpiderWeb" />
+        <module name="spiderweb" />
         <module name="WebCollector" />
       </profile>
     </annotationProcessing>
@@ -21,10 +22,12 @@
       <module name="InfoAnalyser" target="1.5" />
       <module name="InvokeR" target="1.5" />
       <module name="PageAnalyser" target="1.5" />
-      <module name="Spider" target="1.6" />
+      <module name="Spider" target="1.8" />
       <module name="SpiderData" target="1.5" />
+      <module name="spiderdata" target="1.5" />
       <module name="SpiderVisualization" target="1.5" />
       <module name="SpiderWeb" target="1.5" />
+      <module name="spiderweb" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
