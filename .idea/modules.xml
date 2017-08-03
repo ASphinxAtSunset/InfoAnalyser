@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InfoAnalyser.iml" filepath="$PROJECT_DIR$/InfoAnalyser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfoAnalyse.iml" filepath="$PROJECT_DIR$/InfoAnalyse.iml" />
       <module fileurl="file://$PROJECT_DIR$/InvokeR/InvokeR.iml" filepath="$PROJECT_DIR$/InvokeR/InvokeR.iml" />
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PageAnalyser/PageAnalyser.iml" filepath="$PROJECT_DIR$/PageAnalyser/PageAnalyser.iml" />
-=======
->>>>>>> first module
       <module fileurl="file://$PROJECT_DIR$/Spider/Spider.iml" filepath="$PROJECT_DIR$/Spider/Spider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpiderVisualization/SpiderVisualization.iml" filepath="$PROJECT_DIR$/SpiderVisualization/SpiderVisualization.iml" />
-      <module fileurl="file://F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/WebCollector.iml" filepath="F:/SPIDER MODULE/webcollector-WebCollector-master/WebCollector/WebCollector/WebCollector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spiderdata/spiderdata.iml" filepath="$PROJECT_DIR$/spiderdata/spiderdata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spiderweb/spiderweb.iml" filepath="$PROJECT_DIR$/spiderweb/spiderweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiderweb/SpiderWeb.iml" filepath="$PROJECT_DIR$/spiderweb/SpiderWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiderdata/spider-data.iml" filepath="$PROJECT_DIR$/spiderdata/spider-data.iml" />
     </modules>
   </component>
 </project>

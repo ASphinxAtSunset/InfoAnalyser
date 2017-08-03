@@ -9,7 +9,6 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-<<<<<<< HEAD
         <module>spiderdata</module>
         <module>PageAnalyser</module>
         <module>SpiderWeb</module>
@@ -68,11 +67,7 @@
                     <version>1.0-SNAPSHOT</version>
                 </dependency>-->
     </dependencies>
-=======
-        <module>spiderweb</module>
-        <module>spiderdata</module>
-    </modules>
 
 
->>>>>>> first module
+
 </project>

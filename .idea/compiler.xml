@@ -6,41 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="InfoAnalyse" />
         <module name="InvokeR" />
-<<<<<<< HEAD
         <module name="PageAnalyser" />
         <module name="Spider" />
-        <module name="SpiderData" />
-        <module name="spiderdata" />
-        <module name="SpiderVisualization" />
+        <module name="spider-data" />
         <module name="SpiderWeb" />
-        <module name="spiderweb" />
-=======
-        <module name="Spider" />
-        <module name="SpiderVisualization" />
->>>>>>> first module
-        <module name="WebCollector" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-<<<<<<< HEAD
-      <module name="InfoAnalyser" target="1.5" />
+    <bytecodeTargetLevel target="1.6">
+      <module name="InfoAnalyse" target="1.5" />
       <module name="InvokeR" target="1.5" />
       <module name="PageAnalyser" target="1.5" />
-      <module name="Spider" target="1.8" />
-      <module name="SpiderData" target="1.5" />
-      <module name="spiderdata" target="1.5" />
-      <module name="SpiderVisualization" target="1.5" />
+      <module name="Spider" target="1.5" />
+      <module name="spider-data" target="1.5" />
       <module name="SpiderWeb" target="1.5" />
-      <module name="spiderweb" target="1.5" />
-=======
-      <module name="InfoAnalyse" target="1.8" />
-      <module name="InvokeR" target="1.8" />
-      <module name="Spider" target="1.8" />
-      <module name="SpiderVisualization" target="1.8" />
-      <module name="WebCollector" target="1.8" />
->>>>>>> first module
     </bytecodeTargetLevel>
   </component>
 </project>
