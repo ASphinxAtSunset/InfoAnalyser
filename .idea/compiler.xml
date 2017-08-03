@@ -17,7 +17,7 @@
       <module name="InfoAnalyse" target="1.5" />
       <module name="InvokeR" target="1.5" />
       <module name="PageAnalyser" target="1.5" />
-      <module name="Spider" target="1.5" />
+      <module name="Spider" target="1.8" />
       <module name="spider-data" target="1.5" />
       <module name="SpiderWeb" target="1.5" />
     </bytecodeTargetLevel>
