@@ -58,6 +58,6 @@ public class Spider extends BreadthCrawler {
 
     @Override
     public void visit(Page page, CrawlDatums crawlDatums) {
-
+        //定制vistor， page是页面
     }
 }

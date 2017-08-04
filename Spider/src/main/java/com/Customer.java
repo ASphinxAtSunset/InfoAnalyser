@@ -12,7 +12,7 @@ public class Customer {
         this.initCustomer();
     }
     private void initCustomer(){
-
+        //使用redis
     }
     public void start(){
 
