@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.spider.service.OriginalDataService;
 import com.spider.vo.ConditionVo;
-import com.uniontrip.base.web.ResponseBean;
-import com.uniontrip.lvzhi.statistics.StatisticsController;
 
 /**
  * Created by Gene on 2017/7/25.
@@ -21,11 +19,12 @@ import com.uniontrip.lvzhi.statistics.StatisticsController;
 @Controller
 @RequestMapping(value = "/user")
 public class NewsVar {
-	private static Logger log = LoggerFactory.getLogger(StatisticsController.class);
+	private static Logger log = LoggerFactory.getLogger(NewsVar.class);
 	
 	
 	@RequestMapping(value = "/login", method = RequestMethod.POST)
 	@ResponseBody
-    public ResponseBean generateqrcode(@RequestBody Map<String, Object> param){
+    public String generateqrcode(@RequestBody Map<String, Object> param){
+		return null;
     }
 }
