@@ -12,6 +12,7 @@
     <packaging>jar</packaging>
     <properties>
         <typesafe.config.version>1.2.1</typesafe.config.version>
+        <org.apache.httpcomponents.version>4.5.2</org.apache.httpcomponents.version>
     </properties>
     <profiles>
         <profile>
@@ -104,6 +105,14 @@
             <artifactId>config</artifactId>
             <version>${typesafe.config.version}</version>
         </dependency>
+
+        <!--HttpClient-->
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>${org.apache.httpcomponents.version}</version>
+        </dependency>
+
         <!--持久化/数据分析层-->
         <!--        <dependency>
                     <groupId>InfoAnalyse</groupId>
