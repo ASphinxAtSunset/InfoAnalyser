@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InfoAnalyse.iml" filepath="$PROJECT_DIR$/InfoAnalyse.iml" />
-      <module fileurl="file://$PROJECT_DIR$/InvokeR/InvokeR.iml" filepath="$PROJECT_DIR$/InvokeR/InvokeR.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PageAnalyser/PageAnalyser.iml" filepath="$PROJECT_DIR$/PageAnalyser/PageAnalyser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spider/Spider.iml" filepath="$PROJECT_DIR$/Spider/Spider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spiderweb/SpiderWeb.iml" filepath="$PROJECT_DIR$/spiderweb/SpiderWeb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spiderdata/spider-data.iml" filepath="$PROJECT_DIR$/spiderdata/spider-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiderweb/src/main/main.iml" filepath="$PROJECT_DIR$/spiderweb/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiderdata/src/main/main1.iml" filepath="$PROJECT_DIR$/spiderdata/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spider/src/main/main2.iml" filepath="$PROJECT_DIR$/Spider/src/main/main2.iml" />
     </modules>
   </component>
 </project>
