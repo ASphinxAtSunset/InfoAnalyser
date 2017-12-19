@@ -10,6 +10,8 @@ import java.io.File;
 
 /**
  * Created by Gene on 2017/8/11.
+ * 配置Config
+ * 数据源为  配置文件  命令行   SpiderWeb
  */
 public class ConfigUtil {
 
@@ -22,6 +24,7 @@ public class ConfigUtil {
         String path = confiurationFile.getPath();
         try{
             path = confiurationFile.getCanonicalPath();
+            System.out.println(path);
             logger.info("load config file:{}",path);
 
             ConfigUtil.load();
@@ -35,7 +38,15 @@ public class ConfigUtil {
 
     private static void load(String path){
         localConfig = ConfigFactory.parseFile(new File(path));
+        System.out.println(localConfig);
+        System.out.println(1);
     }
+    public static Config getConfig(String key){
+        //TODO 将得到的String转换成Config
+        //return ConfigFactory.parseReader(new StringReader(value));
+        return localConfig.getConfig(key);
+    }
+
 
 
     private static void load(){

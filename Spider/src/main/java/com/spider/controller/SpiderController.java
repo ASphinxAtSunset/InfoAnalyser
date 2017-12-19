@@ -1,3 +1,4 @@
+/*
 package com.spider.controller;
 
 import com.Spider;
@@ -6,13 +7,17 @@ import com.spider.service.impl.OriginalDataServiceImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+*/
 /**
  * Created by Administrator on 2017/7/17.
- */
+ *//*
+
 public class SpiderController {
-    /**
+    */
+/**
      * allocate work
-     */
+     *//*
+
     private static final Logger logger = LoggerFactory.getLogger(SpiderController.class);
 
     private Spider spider;
@@ -36,9 +41,11 @@ public class SpiderController {
             e.printStackTrace();
         }
     }
-    /**
+    */
+/**
      * 分配工作
-     */
+     *//*
+
     public void allocateWork(){
         //新建一个webcollector
 
@@ -56,3 +63,4 @@ public class SpiderController {
 
     }
 }
+*/

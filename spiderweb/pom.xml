@@ -9,59 +9,69 @@
 	<modelVersion>4.0.0</modelVersion>
 	<properties>  
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
-    	<spring.version>3.1.2.RELEASE</spring.version>  
+    	<!--<spring.version>3.1.2.RELEASE</spring.version>-->
+        <spring.version>4.3.6.RELEASE</spring.version>
+        <!--<version>4.3.10.RELEASE</version>-->
+        <!--<spring.version>5.0.0.RC3</spring.version>-->
 	</properties>
 	<artifactId>SpiderWeb</artifactId>
 	<dependencies>
-		<!--开始执行爬虫 -->
-		<dependency>
-			<groupId>InfoAnalyse</groupId>
-			<artifactId>Spider</artifactId>
-			<version>1.0-SNAPSHOT</version>
-		</dependency>
+        <!--开始执行爬虫 -->
+        <dependency>
+            <groupId>InfoAnalyse</groupId>
+            <artifactId>Spider</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
-		<!--持久化 只用于查数据/也可用于保存筛选条件 -->
-		<dependency>
-			<groupId>InfoAnalyse</groupId>
-			<artifactId>spider-data</artifactId>
-			<version>1.0-SNAPSHOT</version>
-		</dependency>
+        <!--持久化 只用于查数据/也可用于保存筛选条件 -->
+        <dependency>
+            <groupId>InfoAnalyse</groupId>
+            <artifactId>spider-data</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
-		<!--依赖库定义 -->
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-webmvc</artifactId>
-			<version>${spring.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-jdbc</artifactId>
-			<version>${spring.version}</version>
-		</dependency>
+        <!--依赖库定义 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
 
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-context</artifactId>
-			<version>${spring.version}</version>
-		</dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
 
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-aop</artifactId>
-			<version>${spring.version}</version>
-		</dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aop</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aspects</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
 
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-core</artifactId>
-			<version>${spring.version}</version>
-		</dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
 
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-test</artifactId>
-			<version>${spring.version}</version>
-		</dependency>
+
+
 	</dependencies>
 
 
